@@ -1,4 +1,5 @@
- # 🎬 Film Rental Analytics & Data Warehouse | Retail & Entertainment Industry · Business Intelligence
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-E97627?style=flat)
+ # 🎬 Film Rental Analytics & Data Warehouse | Retail & Entertainment Industry
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
