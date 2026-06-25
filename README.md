@@ -1,5 +1,5 @@
-![Industry](https://img.shields.io/badge/Industry-Business%20Intelligence-orange?style=flat)
-# 🎬 Film Rental Analytics & Data Warehouse
+ # 🎬 Film Rental Analytics & Data Warehouse | Retail & Entertainment Industry · Business Intelligence
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
